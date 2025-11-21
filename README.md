@@ -120,11 +120,6 @@ npm run dev
 npm run build
 ```
 
-## Open in Browser
-```
-http://localhost:5173/
-```
-
 ## Screenshots
 ### Home Page
 <img width="1904" height="950" alt="image" src="https://github.com/user-attachments/assets/4a3216a0-6d98-498d-b581-64865f69e243" />
