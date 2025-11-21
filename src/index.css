@@ -1,0 +1,4 @@
+@import "tailwindcss";
+/* make main text color and bg */
+:root { }
+body { @apply bg-white; } /* if you want white background -- or use your dark background variant */
