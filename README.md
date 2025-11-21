@@ -122,7 +122,7 @@ npm run build
 
 ## Open in Browser
 ```
-http://localhost:5174/
+http://localhost:5173/
 ```
 
 ## Screenshots
