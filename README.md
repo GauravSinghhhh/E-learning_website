@@ -1,9 +1,9 @@
-1. E-Learning Platform – Modern React + Tailwind Web App
+# E-Learning Platform – Modern React + Tailwind Web App
 
 A modern, responsive E-Learning Platform built with React, Vite, TailwindCSS, and Framer Motion.
 This project mimics real-world learning platforms with courses, dashboards, lesson lists, reviews, and more.
 
-2. Features
+## Features
 🎓 Student Experience
 
 Beautiful, animated Home Page
@@ -34,7 +34,7 @@ Smooth UI animations (Framer Motion)
 
 Confetti animation on course enrollment
 
-3. Student Dashboard
+## Student Dashboard
 
 Displays enrolled courses
 
@@ -44,7 +44,7 @@ Modern card-based layout
 
 Responsive grid design
 
-4. Ratings & Reviews
+## Ratings & Reviews
 
 Fully integrated frontend-only review system
 
@@ -62,7 +62,7 @@ Custom star rating component
 
 Minimalistic modal UI
 
-5. Tech Stack
+## Tech Stack
 
 | Technology          | Usage                       |
 | ------------------- | --------------------------- |
@@ -74,7 +74,8 @@ Minimalistic modal UI
 | **React Router v6** | Routing                     |
 | **Hero Icons**      | Icons                       |
 
-6. Project Structure
+## Project Structure
+```bash
 src/
  ├─ components/
  │   ├─ CategorySection.jsx
@@ -94,25 +95,30 @@ src/
  ├─ App.jsx
  ├─ main.jsx
  └─ index.css
+```
 
-7. Installation & Setup
+## Installation & Setup
 
-i). Clone the repository
-
+### Clone the repository
+```
 git clone https://github.com/YOUR_USERNAME/e-learning-website.git
 cd e-learning-website
+```
 
-ii). Install dependencies
-
+### Install dependencies
+```
 npm install
+```
 
-iii). Run the development server
-
+### Run the development server
+```
 npm run dev
+```
 
-iv). Build for Production
-
+### Build for Production
+```
 npm run build
+```
 
 
 
